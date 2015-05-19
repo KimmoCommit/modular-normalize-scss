@@ -1,0 +1,13 @@
+{
+  "name": "modular-main-normalize-scss",
+  "version": "1.0.0",
+  "main":"_nomralize.scss",
+  "ignore": [
+    "**/.*",
+    "Gruntfile.js",
+    "bower.json",
+    "node_modules",
+    "package.json",
+    "tmp"
+  ]
+}
