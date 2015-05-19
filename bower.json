@@ -1,7 +1,7 @@
 {
   "name": "modular-main-normalize-scss",
   "version": "1.0.0",
-  "main":"_nomralize.scss",
+  "main":"_normalize.scss",
   "ignore": [
     "**/.*",
     "Gruntfile.js",
